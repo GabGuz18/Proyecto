@@ -1,0 +1,33 @@
+Descripción de proyecto 
+
+Nombre del equipo:
+•	L. A. G. Softwares
+
+Integrantes del equipo:
+•	Luis Gustavo Quintero Ramírez
+•	Alfredo Galindo Ayala
+•	Diego Gabriel Guzman Guerrero
+
+Planteamiento de un problema:
+•	En un negocio de cafetería, no se tiene un registro exacto o por lo menos aproximado de las cantidades de productos y 
+materia prima que el negocio recibe, gasta y almacena. 
+Este problema lleva a que haya perdida de materiales, se quede sin productos “antes” de tiempo o en momentos inesperados,
+y que en caso de pedir mas productos este llegue a destiempo. 
+
+Planteamiento de la solución:
+•	La solución que nosotros planteamos es tener una página/aplicación en la que los empleados/dueños del establecimiento tengan una base de datos que pueda ser modificada, 
+ya sea por re-stock o ventas, así como solicitar la información de cuántos productos todavía se tiene. 
+Esta página/aplicación tendrá una interfaz de inicio de sesión para verificar quien fue el que hizo el movimiento, 
+posteriormente una lista con todos los productos que el negocio tiene a la venta o como materia prima. 
+
+Requerimientos:
+•	Funcionales: Nuestro software proveerá con lo que viene siendo el sistema de base de datos, con una facilidad para manejar, 
+hacer consultas y modificar los datos que en su momento van a actualizar. 
+También se incluirá una interfaz en la que pueda manejar y transitar con facilidad por la página consultando y manejando lo que él requiera. 
+
+•	No funcionales: Para este software se requiere conexión a internet ya que se comunica a la base de datos por este medio, 
+a demás de que al ser aplicación móvil requiere internet. 
+Este servicio no se puede dar a clientes ya que solo cuenta con información que beneficia o puede servirles a las personas del negocio.
+
+•	Dominio: Contar con secciones en las que los usuarios y administradores puedan identificar que son las cosas o acciones que pueden llevar a cabo dentro de la aplicación. 
+© 2021 GitHub, Inc.
